@@ -1,3 +1,29 @@
 body {
-    font-family: "Roboto", "Helvetica Neue", Helvetica, Arial;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 16px;
+}
+
+.mui-appbar {
+    font-size: 30px;
+    padding: 20px 0 0 5px;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 700;
+}
+
+.mui--text-dark-secondary {
+    font-family: 'Libre Baskerville', serif;
+    font-size: normal;
+}
+
+.heading1 {
+    padding: auto;
+}
+
+.mui-container {
+    margin-top: 100px;
+}
+
+.mui--text-display1 {
+    margin-top: 100px;
+    text-align: center;
 }
